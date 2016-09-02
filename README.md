@@ -14,6 +14,7 @@ Really easy react universal boilerplate with many commentaries
 - [React CSS modules](https://github.com/gajus/react-css-modules)
 - [PostCSS](https://github.com/postcss/postcss)
 - [Redux-connect](https://github.com/makeomatic/redux-connect)
+- [React-formal](https://github.com/jquense/react-formal)
 - [React-helmet](https://github.com/nfl/react-helmet)
 - Server Side Rendering
 - Api server on other port (express)
